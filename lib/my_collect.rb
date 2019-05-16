@@ -3,6 +3,6 @@ def my_collect(array)
   newArray = []
   while x < array.length
   newArray.push << array[x]
-  x++
+  x = x + 1
   end
 end

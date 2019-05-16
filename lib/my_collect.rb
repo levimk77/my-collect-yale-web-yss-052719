@@ -5,4 +5,5 @@ def my_collect(array)
   newArray.push << array[x]
   x = x + 1
   end
+  newArray
 end
